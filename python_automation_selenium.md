@@ -1,6 +1,6 @@
 # Python Automation Plan 🤖
 
-*Always remember the art of learning i.e. learning **what**, **how**, and **why***
+*Always remember the art of learning i.e. learning **what**,**when**, **how**, and **why***
 
 ## Topics to be Covered (10 hours) 📚
 
